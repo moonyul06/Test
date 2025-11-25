@@ -1,1 +1,1 @@
-print(집)
+print(집!)
